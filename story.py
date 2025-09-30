@@ -6,3 +6,5 @@ print(f"{name}, My favourite colour is also {favourite_colour.lower()} same as y
 favourite_place = input("What is your favourite place? ")
 favourite_animal = input("What is your favourite animal? ")
 print(f"{name}, {favourite_place} is a beautiful place. And {favourite_animal} is a beautiful animal. ")
+print(f"Welcome {name}! Your favourite colour is {favourite_colour} and you love {favourite_food}.")
+print(f"One day, you went to {favourite_place} with a {favourite_colour} {favourite_animal} while eating {favourite_food}!")
