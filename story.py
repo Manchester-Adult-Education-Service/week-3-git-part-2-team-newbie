@@ -1,2 +1,5 @@
 name = input("What is your name? ")
 print(f"Welcome {name} to our page. ")
+favourite_colour = input("what is your favourite colour? ")
+favourite_food = input("What is your favourite food? ")
+print(f"{name}, My favourite colour is also {favourite_colour} same as you, and i also like {favourite_food}.")
